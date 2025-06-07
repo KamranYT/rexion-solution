@@ -1,0 +1,101 @@
+{
+  "companyName": "ReXon Solution",
+  "tagline": "Innovative Digital Solutions for Modern Businesses",
+  "about": "ReXon Solution is a leading technology company specializing in web development, digital solutions, and software consulting. We help businesses transform their digital presence through cutting-edge technology and innovative solutions.",
+  "services": [
+    {
+      "name": "Web Development",
+      "description": "Custom website development using modern frameworks and technologies",
+      "technologies": ["React", "Next.js", "TypeScript", "Tailwind CSS"]
+    },
+    {
+      "name": "UI/UX Design",
+      "description": "User-centered design solutions that enhance user experience",
+      "technologies": ["Figma", "Adobe XD", "Framer Motion"]
+    },
+    {
+      "name": "Digital Solutions",
+      "description": "End-to-end digital transformation services for businesses",
+      "technologies": ["Cloud Solutions", "API Integration", "Database Management"]
+    }
+  ],
+  "expertise": [
+    "Frontend Development",
+    "Backend Development",
+    "UI/UX Design",
+    "Cloud Solutions",
+    "API Integration",
+    "Database Management",
+    "DevOps",
+    "Quality Assurance"
+  ],
+  "technologies": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Node.js",
+    "Python",
+    "MongoDB",
+    "PostgreSQL",
+    "AWS",
+    "Docker",
+    "Kubernetes"
+  ],
+  "projects": [
+    {
+      "name": "E-commerce Platform",
+      "description": "A scalable e-commerce solution with real-time inventory management",
+      "technologies": ["Next.js", "Node.js", "MongoDB", "AWS"]
+    },
+    {
+      "name": "Healthcare Management System",
+      "description": "Comprehensive healthcare management platform for clinics",
+      "technologies": ["React", "Python", "PostgreSQL", "Docker"]
+    },
+    {
+      "name": "Financial Dashboard",
+      "description": "Real-time financial analytics and reporting dashboard",
+      "technologies": ["TypeScript", "Node.js", "MongoDB", "AWS"]
+    }
+  ],
+  "contact": {
+    "email": "contact@rexonsolution.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Tech Street, Innovation City, IC 12345",
+    "linkedin": "https://linkedin.com/company/rexon-solution",
+    "twitter": "https://twitter.com/rexonsolution",
+    "website": "https://rexonsolution.com"
+  },
+  "faq": [
+    {
+      "question": "What services does ReXon Solution offer?",
+      "answer": "We offer comprehensive web development, UI/UX design, and digital solutions including cloud services, API integration, and database management."
+    },
+    {
+      "question": "How can I get started with ReXon Solution?",
+      "answer": "You can contact us through our website, email, or phone. We'll schedule a consultation to understand your needs and provide a tailored solution."
+    },
+    {
+      "question": "What technologies does ReXon Solution specialize in?",
+      "answer": "We specialize in modern web technologies including React, Next.js, TypeScript, Node.js, and various cloud platforms. We also work with Python, MongoDB, PostgreSQL, and containerization technologies."
+    }
+  ],
+  "companyValues": [
+    "Innovation",
+    "Quality",
+    "Customer Satisfaction",
+    "Technical Excellence",
+    "Continuous Learning"
+  ],
+  "team": {
+    "size": "50+",
+    "specialties": [
+      "Frontend Developers",
+      "Backend Developers",
+      "UI/UX Designers",
+      "DevOps Engineers",
+      "Project Managers",
+      "Quality Assurance Engineers"
+    ]
+  }
+} 
